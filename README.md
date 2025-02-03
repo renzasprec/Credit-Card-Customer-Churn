@@ -1,2 +1,2 @@
-# Credit-Card-Customer-Attrition
- Credit Card Customer Attrition - Classification (Python) 
+# Credit-Card-Customer-Churn
+ Credit Card Customer Churn - Classification (Python) 
